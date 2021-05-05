@@ -29,15 +29,15 @@ I am a student, currently studying in VIIT. I am interested in Development and a
 </a>
 
 <br/>
-<table style="width:100%">
+<table>
   <tr>
     <th><h3> 🤝🏻 Connect with Me </h3></th>
   </tr>
 
-<p align="center">
+<p>
  <a href="https://https://stackoverflow.com/users/14333048/sandip"><img alt="stackoverflow" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></a> 
 <a href="https://twitter.com/sandippatil807"><img alt="twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"></a> 
 
 </p>
 
- 	
+</table>
