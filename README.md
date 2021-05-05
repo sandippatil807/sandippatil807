@@ -13,6 +13,9 @@ I am a student, currently studying in VIIT. I am interested in Development and a
 <code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://www.tableau.com//" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/50192249/115270632-23855000-a15a-11eb-92a9-68ccbdb62b69.png"></a></code>
 
+
+
+
 <code><a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
 <br/>
 
@@ -26,8 +29,10 @@ I am a student, currently studying in VIIT. I am interested in Development and a
 </a>
 
 <br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<table style="width:100%">
+  <tr>
+    <th><h3> 🤝🏻 Connect with Me </h3></th>
+  </tr>
 
 <p align="center">
  <a href="https://https://stackoverflow.com/users/14333048/sandip"><img alt="stackoverflow" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></a> 
